@@ -27,13 +27,9 @@ A smart IoT-based plant monitoring system using Raspberry Pi Pico W. The project
 1. Install **MicroPython** on your Raspberry Pi Pico W.  
 2. Upload the project files (e.g., `main.py`).  
 3. Edit Wi-Fi credentials inside the code:
-
-```python
-ssid = 'Your_SSID'
-password = 'Your_PASSWORD'
-
+  ssid = 'Your_SSID'
+  password = 'Your_PASSWORD'
 4.Run the script and connect Pico W to Wi-Fi.
-
 5.Open a browser and go to http://<Pico_W_IP> to view the dashboard.
 
 🖥️ Web Dashboard Preview
