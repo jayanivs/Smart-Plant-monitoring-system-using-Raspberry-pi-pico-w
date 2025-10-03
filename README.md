@@ -29,11 +29,6 @@ A smart IoT-based plant monitoring system using Raspberry Pi Pico W. The project
 - Buzzer  
 - Breadboard, Jumper Wires, Power Supply  
 
-**Hardware Setup Diagram (Optional)**
-
-![Pico W Plant Monitoring Diagram](https://user-images.githubusercontent.com/yourusername/yourdiagram.png)  
-*(Replace with your own diagram or photo)*
-
 ---
 
 ## ⚙️ Software & Setup
@@ -62,11 +57,6 @@ The Pico W hosts a simple webpage that auto-refreshes every 2 seconds, displayin
 - 💡 Light Intensity (LDR raw value)  
 - 🚨 Water level status (green/red with buzzer alert)  
 
-**Dashboard Screenshot (Optional)**
-
-![Web Dashboard](https://user-images.githubusercontent.com/yourusername/dashboard.png)  
-*(Replace with a screenshot of your dashboard)*
-
 ---
 
 ## 📂 Project Structure
@@ -75,6 +65,10 @@ The Pico W hosts a simple webpage that auto-refreshes every 2 seconds, displayin
 ├── main.py            # Core code (sensors + web server)
 ├── README.md          # Project documentation
 ```
+---
+## Result
+
+Video:(https://drive.google.com/file/d/1ThFpIApEqZW-aegk6HKr9WhnZJ0pyLFJ/view?usp=drive_link)
 
 ---
 
