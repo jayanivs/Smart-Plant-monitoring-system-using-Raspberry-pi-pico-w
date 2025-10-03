@@ -31,9 +31,10 @@ A smart IoT-based plant monitoring system using Raspberry Pi Pico W. The project
 ```python
 ssid = 'Your_SSID'
 password = 'Your_PASSWORD'
-Run the script and connect Pico W to Wi-Fi.
 
-Open a browser and go to http://<Pico_W_IP> to view the dashboard.
+4.Run the script and connect Pico W to Wi-Fi.
+
+5.Open a browser and go to http://<Pico_W_IP> to view the dashboard.
 
 🖥️ Web Dashboard Preview
 
